@@ -1,11 +1,15 @@
-Olá! Bem vindo ao meu projeto de portfólio.
-Ferramentas utilizadas:
-HTML
+# Olá! Bem vindo ao meu projeto de portfólio.
 
-CSS
+## Ferramentas utilizadas:
 
-Flex-box
+*HTML
 
-Feito por:
-Denise Bastos
-Linkedin: https://www.linkedin.com/in/denise-carvalho-bastos/
+*CSS
+
+*Flex-box
+
+## Feito por:
+
+### Denise Bastos
+
+### Linkedin: https://www.linkedin.com/in/denise-carvalho-bastos/
